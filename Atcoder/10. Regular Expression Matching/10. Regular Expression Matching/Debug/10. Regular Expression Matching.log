@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(358,5): error MSB6006: “CL.exe”已退出，代码为 2。
+c:\users\sakura\documents\visual studio 2017\projects\atcoder\10. regular expression matching\10. regular expression matching\源.cpp(33): fatal error C1075: 左侧的 大括号“{” 与文件结尾不匹配

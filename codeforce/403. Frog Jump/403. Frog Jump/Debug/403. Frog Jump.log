@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(11): warning C4244: “参数”: 从“Solution::ll”转换到“const unsigned int”，可能丢失数据
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(12): warning C4244: “参数”: 从“Solution::ll”转换到“const unsigned int”，可能丢失数据
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(13): warning C4244: “初始化”: 从“Solution::ll”转换到“int”，可能丢失数据
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(17): warning C4244: “参数”: 从“Solution::ll”转换到“unsigned int”，可能丢失数据
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(18): warning C4244: “参数”: 从“Solution::ll”转换到“unsigned int”，可能丢失数据
+c:\users\sakura\documents\visual studio 2017\projects\codeforce\403. frog jump\403. frog jump\源.cpp(20): warning C4244: “参数”: 从“Solution::ll”转换到“unsigned int”，可能丢失数据
+  403. Frog Jump.vcxproj -> C:\Users\sakura\Documents\Visual Studio 2017\Projects\codeforce\403. Frog Jump\Debug\403. Frog Jump.exe
+  403. Frog Jump.vcxproj -> C:\Users\sakura\Documents\Visual Studio 2017\Projects\codeforce\403. Frog Jump\Debug\403. Frog Jump.pdb (Partial PDB)
